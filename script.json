@@ -1,0 +1,61 @@
+[
+  {
+    "id": "_meta",
+    "name": "Beyond Day 5",
+    "author": "Pikcube"
+  },
+  "knight",
+  "grandmother",
+  {
+    "id": "huntswoman",
+    "edition": "Beyond Day 5",
+    "name": "Huntswoman",
+    "firstNightReminder": "Show the Huntswoman an in play outsider.",
+    "otherNightReminder": "The Huntswoman might choose a player.  If that player was an outsider: Put the Huntswoman to sleep. Wake the outsider and show them the *YOU ARE* info token and their new character token.",
+    "firstNight": 38.0,
+    "otherNight": 57.0,
+    "team": "townsfolk",
+    "reminders": [
+      "No Ability"
+    ],
+    "setup": true,
+    "ability": "You start knowing an in play outsider. Once per game, at night*, choose a living player: an outsider, if chosen, becomes a not-in-play Townsfolk. [At Least 1 Outsider]",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.BeyondDay5/main/token/huntswoman/0.png",
+      "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.BeyondDay5/main/token/huntswoman/1.png"
+    ],
+    "flavor": "My cabin is warm and sturdy. My axe by the door, my boots drying by the fire, and elk stew a-simmering… Hark! A scream echoes through the valley! The rain and the mud and the cold, cold wind mask the scent of the wolves, but I know the path and my pace is steady. I am coming."
+  },
+  "balloonist",
+  "snakecharmer",
+  "dreamer",
+  "flowergirl",
+  "oracle",
+  "alsaahir",
+  "courtier",
+  "artist",
+  "cannibal",
+  "amnesiac",
+  "magician",
+  "drunk",
+  "recluse",
+  "mutant",
+  "zealot",
+  "damsel",
+  "mezepheles",
+  "poisoner",
+  "cerenovus",
+  "boffin",
+  "baron",
+  "leviathan",
+  "bootlegger",
+  "djinn",
+  "stormcatcher",
+  "barista",
+  "matron",
+  "bonecollector",
+  "apprentice"
+]
