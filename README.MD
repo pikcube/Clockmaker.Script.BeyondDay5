@@ -28,7 +28,7 @@
 * Leviathan: If more than 1 good player is executed, evil wins. All players know you are in play. After day 5, evil wins.
 * Bootlegger: This script has homebrew characters or rules.
 * Djinn: Use the Djinn's special rule. All players know what it is.
-* Storm Catcher: Name a good character. If in play, they can only die by execution, but evil players learn which player it is.
+* Storm Catcher: If the Courtier is in play, they can only die by execution, but evil players learn which player they are.
 * Barista: Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which.
 * Matron: Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.
 * Bone Collector: Once per game, at night*, choose a dead player: they regain their ability until dusk.
