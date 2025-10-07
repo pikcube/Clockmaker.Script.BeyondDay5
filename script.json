@@ -5,7 +5,7 @@
     "author": "Pikcube",
     "firstNight": [
       "dusk",
-      "stormcatcher",
+      "stormcatcher_beyond day 5",
       "apprentice",
       "barista",
       "boffin",
@@ -97,7 +97,26 @@
   "leviathan",
   "bootlegger",
   "djinn",
-  "stormcatcher",
+  {
+    "id": "stormcatcher_beyond day 5",
+    "edition": "fabled",
+    "name": "Storm Catcher",
+    "firstNightReminder": "At the start of the night, announce which character is favoured by the Storm Catcher. If that character is in play, mark that player as \"Safe\". Wake each evil player and show them the character token, then the marked player.\n If not in play, wake each evil player, show them the \"These Characters Are Not In Play\" info token and the relevant character token.",
+    "firstNight": 1.0,
+    "team": "fabled",
+    "reminders": [
+      "Safe"
+    ],
+    "setup": false,
+    "ability": "If the Courtier is in play, they can only die by execution, but evil players learn which player they are.",
+    "jinxes": [],
+    "remindersGlobal": [],
+    "special": [],
+    "image": [
+      "https://raw.githubusercontent.com/pikcube/Clockmaker.Script.BeyondDay5/main/token/stormcatcher_beyond%20day%205/0.png"
+    ],
+    "flavor": "At dawn, the temple's long shadow creeps to the fountain. At dusk, the obelisk blocks the red glare, cooling warm water under the archway. All lines converge here. A storm is coming, and this, this pebbled and lush and holy place between the apple trees, is the eye."
+  },
   "barista",
   "matron",
   "bonecollector",
