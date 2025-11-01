@@ -98,18 +98,6 @@
   "matron",
   "bonecollector",
   "apprentice",
-  {
-    "id": "Beyond Day 5_32",
-    "edition": "Beyond Day 5",
-    "name": "lorry",
-    "team": "loric",
-    "reminders": [],
-    "setup": false,
-    "ability": "lol",
-    "jinxes": [],
-    "remindersGlobal": [],
-    "special": []
-  },
   "bootlegger",
   {
     "id": "stormcatcher_beyond day 5",
