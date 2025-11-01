@@ -31,6 +31,5 @@
 * Matron: Each day, you may choose up to 3 sets of 2 players to swap seats. Players may not leave their seats to talk in private.
 * Bone Collector: Once per game, at night*, choose a dead player: they regain their ability until dusk.
 * Apprentice: On your 1st night, you gain a Townsfolk ability (if good), or a Minion ability (if evil).
-* lorry: lol
 * Bootlegger: This script has homebrew characters or rules.
 * Storm Catcher: If the Courtier is in play, they can only die by execution, but evil players learn which player they are.
